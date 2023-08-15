@@ -1,0 +1,34 @@
+#startBtn
+{border: 1px solid #3498db;
+background-color: transparent;
+padding: 10px 20px;
+font-size: 15px;
+margin: 10px;
+transition: 0.5s;
+border-radius: 3px;
+}
+
+#startBtn:hover{
+    font-size: 17px;
+    background-color: #3498db;
+}
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+#logo{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
